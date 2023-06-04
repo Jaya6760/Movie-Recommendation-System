@@ -21,6 +21,7 @@ Movie Recommendation System created using Collaborative Filtering (Website) and 
 <div align='center'>
 <img src = 'flow-diagram.JPG' height="400px">
 </div>
+       
 
 
 ### Deployment
